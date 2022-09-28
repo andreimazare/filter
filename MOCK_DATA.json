@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "make": "Audi",
+    "model": "A5",
+    "color": "Maroon",
+    "year": 2011,
+    "ip_address": "6.55.10.193"
+  },
+  {
+    "id": 2,
+    "make": "Kia",
+    "model": "Spectra",
+    "color": "Teal",
+    "year": 2005,
+    "ip_address": "128.111.181.158"
+  },
+  {
+    "id": 3,
+    "make": "Suzuki",
+    "model": "Esteem",
+    "color": "Green",
+    "year": 2002,
+    "ip_address": "197.57.141.221"
+  },
+  {
+    "id": 4,
+    "make": "GMC",
+    "model": "Yukon XL 2500",
+    "color": "Orange",
+    "year": 2006,
+    "ip_address": "79.242.15.25"
+  },
+  {
+    "id": 5,
+    "make": "Land Rover",
+    "model": "Range Rover Sport",
+    "color": "Crimson",
+    "year": 2006,
+    "ip_address": "119.209.18.168"
+  },
+  {
+    "id": 6,
+    "make": "Volkswagen",
+    "model": "Cabriolet",
+    "color": "Green",
+    "year": 1997,
+    "ip_address": "28.228.12.201"
+  },
+  {
+    "id": 7,
+    "make": "Mercedes-Benz",
+    "model": "CL-Class",
+    "color": "Indigo",
+    "year": 2007,
+    "ip_address": "119.126.156.208"
+  },
+  {
+    "id": 8,
+    "make": "Infiniti",
+    "model": "FX",
+    "color": "Khaki",
+    "year": 2004,
+    "ip_address": "184.111.102.74"
+  },
+  {
+    "id": 9,
+    "make": "Ford",
+    "model": "F350",
+    "color": "Fuscia",
+    "year": 1997,
+    "ip_address": "199.15.185.27"
+  },
+  {
+    "id": 10,
+    "make": "Audi",
+    "model": "A8",
+    "color": "Violet",
+    "year": 1999,
+    "ip_address": "239.77.80.66"
+  }
+]
